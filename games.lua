@@ -13,7 +13,7 @@ local Games = {
   [116495829188952] = "https://raw.githubusercontent.com/public-account-7/grrrrrrrr/refs/heads/main/Dead%20Rails.lua", -- Dead Rails
   [70876832253163] = "https://raw.githubusercontent.com/public-account-7/grrrrrrrr/refs/heads/main/Dead%20Rails.lua", -- Dead Rails
   [125723653259639] = "https://raw.githubusercontent.com/public-account-7/grrrrrrrr/refs/heads/main/DrillDiggingSimulator.lua.txt", -- Drill Digging Simulator
-  [87039211657390] = "https://raw.githubusercontent.com/public-account-7/grrrrrrrr/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover
+  -- [87039211657390] = "https://raw.githubusercontent.com/public-account-7/grrrrrrrr/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover
 }
 
 return Games
